@@ -1,6 +1,6 @@
 CoreOS on Vagrant
 =================
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)]
+![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)
 
 Vagrantfile and config to play CoreOS on Vagrant.
 
